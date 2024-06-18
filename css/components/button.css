@@ -1,0 +1,17 @@
+.btn-call-to-action {
+    text-decoration: none;
+    background-color: rgb(201, 74, 174);
+    opacity: 0.95;
+    color: white;
+    padding: 12px 30px;
+    font-weight: lighter;
+    border: 0.5px solid;
+    border-radius: 30px;
+    transition: 300ms ease;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+.btn-call-to-action:hover {
+  color: white;
+  background-color: rgb(105, 29, 89);
+}
